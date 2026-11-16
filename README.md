@@ -5,7 +5,7 @@ Flask + MySQL backend, plain HTML/CSS/JS frontend. Flask serves both, so there i
 ## Run (Linux Mint / Ubuntu / Debian, or Arch Linux)
 
 ```bash
-unzip abc-bank.zip && cd abc-bank
+git clone https://github.com/Abhishek-mistry/abc-bank.git && cd abc-bank
 ./start.sh            # if not executable:  bash start.sh
 ```
 
