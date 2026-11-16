@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4F9EDB"/><stop offset="1" stop-color="#2E7CC4"/></linearGradient></defs>
+<circle cx="230" cy="100" r="86" fill="#ffffff12"/><circle cx="270" cy="40" r="4" fill="#ffffff66"/><circle cx="190" cy="30" r="3" fill="#ffffff55"/><circle cx="300" cy="150" r="3" fill="#ffffff55"/>
+<path d="M170 180h96l-10-46h-76z" fill="#ffffff" opacity=".92"/><rect x="164" y="172" width="108" height="10" rx="5" fill="#EAF2FA"/>
+<path d="M218 134V70" stroke="#7fd39a" stroke-width="5" stroke-linecap="round"/>
+<path d="M218 104c-30 0-44-16-46-34 28-2 46 10 46 34z" fill="#5bc27f"/><path d="M218 88c26 0 40-14 42-30-26-2-42 8-42 30z" fill="#7fd39a"/>
+<g fill="url(#g)" stroke="#fff" stroke-width="2.5"><circle cx="218" cy="52" r="20"/></g><text x="218" y="60" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#fff">₹</text>
+<g fill="#ffffff" opacity=".9"><rect x="86" y="150" width="12" height="30" rx="3"/><rect x="106" y="132" width="12" height="48" rx="3"/><rect x="126" y="112" width="12" height="68" rx="3"/></g></svg>

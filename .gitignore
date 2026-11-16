@@ -1,0 +1,7 @@
+.venv/
+wheels/
+__pycache__/
+*.pyc
+.env
+backend/uploads/*
+!backend/uploads/.gitkeep
